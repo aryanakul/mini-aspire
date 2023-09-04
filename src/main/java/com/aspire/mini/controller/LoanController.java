@@ -19,7 +19,6 @@ import com.aspire.mini.dto.request.PaymentRequestDTO;
 import com.aspire.mini.dto.response.LoanResponseDTO;
 import com.aspire.mini.enums.UserRole;
 import com.aspire.mini.service.LoanService;
-import com.aspire.mini.service.UserService;
 import com.aspire.mini.utility.AppUtils;
 import com.aspire.mini.validator.LoanValidator;
 
